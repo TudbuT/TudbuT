@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### My skills:
+[![My Skills](https://skillicons.dev/icons?i=linux,git,neovim,vim,java,cs,html,js,md,css,arduino,idea,discord)](https://skillicons.dev)
+
 ![ ](https://komarev.com/ghpvc/?username=TudbuT&style=flat-square&color=blueviolet)
 
 ![ ](https://github-readme-stats.vercel.app/api?username=TudbuT&show_icons=true&theme=dracula)
