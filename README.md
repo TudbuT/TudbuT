@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### My skills:
-[![My Skills](https://skillicons.dev/icons?i=linux,git,neovim,vim,java,cs,html,js,md,css,arduino,idea,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,neovim,vim,java,cs,html,js,md,css,arduino,idea,discord,rust)](https://skillicons.dev)
 
 ![ ](https://komarev.com/ghpvc/?username=TudbuT&style=flat-square&color=blueviolet)
 
