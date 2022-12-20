@@ -8,3 +8,5 @@
 ![ ](https://github-readme-stats.vercel.app/api?username=TudbuT&show_icons=true&theme=dracula)
 
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=TudbuT&theme=dracula&show_icons=true)
+
+<a rel="me" href="https://tech.lgbt/@TudbuT">Mastodon</a>
