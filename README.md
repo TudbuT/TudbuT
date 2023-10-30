@@ -10,3 +10,5 @@
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=TudbuT&theme=dracula&show_icons=true)
 
 <a rel="me" href="https://tech.lgbt/@TudbuT">Mastodon</a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TudbuT)](https://github.com/ryo-ma/github-profile-trophy)
