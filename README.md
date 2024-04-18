@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently not active as a result of depression (the reasons of which I know but will not elaborate on here). Activity will probably/hopefully return to pre-2024 levels *at some point*
+
 #### My skills:
 [![My Skills](https://skillicons.dev/icons?i=linux,git,neovim,vim,java,cs,html,js,md,css,arduino,idea,discord,rust,bash,c)](https://skillicons.dev)
 
